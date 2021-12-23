@@ -82,7 +82,8 @@ def format_data(orders_by_date_by_restaurant, start_year, end_year, unique_resta
 
         for restaurant in unique_restaurant_names:
             if restaurant in restaurants_for_day:
-                datum[restaurant] = restaurants_for_day[restaurant]
+                datum[restaurant] = 1
+                # datum[restaurant] = restaurants_for_day[restaurant]
             else:
                 datum[restaurant] = 0
 
