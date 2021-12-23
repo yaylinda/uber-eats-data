@@ -1,0 +1,27 @@
+California users are entitled to certain information under the California Consumer Privacy Act (CCPA). This information is below. You can find a more detailed description of Uber’s data-sharing practices in our Privacy Notice.
+Learn more: https://www.uber.com/privacy/notice/
+
+Uber may share California users’ personal data with the following categories of third parties:
+-Airports
+-Background check and identity verification providers (drivers and delivery partners only)
+-Cloud storage providers
+-Consultants, lawyers, accountants, and other professional service providers
+-Data analytics providers
+-Fleet partners
+-Insurance and financing partners
+-Law enforcement and other government entities
+-Marketing partners and marketing platform providers, including social media advertising services
+-Payment processors and facilitators
+-Providers of mobility services
+-Research partners, including those performing surveys or research projects in partnership with Uber or on Uber’s behalf
+-Restaurant partners and/or their point-of-sale providers
+-Vehicle solution vendors or third-party vehicle suppliers
+-Vendors that assist Uber in enhancing the safety and security of its apps
+
+
+Uber has a long-standing policy that we do not sell your data--we are not data brokers, and we don’t put your data on the open market. However, under the CCPA, some sharing of personal information necessary to provide you with personalized ads may be considered a “sale,” even if no money is exchanged. We aren’t changing how we share your data, but we want to make sure you have choices under the new definition of “sale.”
+
+In the past 12 months, Uber has sold your personal data to the following categories of third parties:
+-Advertising network providers
+
+You can opt out of this data sharing on this page: https://www.uber.com/privacy/california

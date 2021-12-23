@@ -1,0 +1,4 @@
+Trip Request Time,Create Ticket Time,Trip Unique User ID,Ticket Status,Channel,City,Country,Product Name,Is CSR Ticket,Locale,Modality,Requester Type,Requester Unique User ID
+2021-12-05 04:45:38,2021-12-05 05:41:25,a00d9706-08d8-4b97-8481-86b2975639e1,solved,system,25,US,UberEATS Marketplace (order),false,en_US,chat,eater,448fa2a3-65db-490b-95d3-758fa31dc95e
+2021-11-16 04:22:16,2021-11-16 07:35:37,91e2778f-605b-5dde-85fd-70fc869a8ee7,archived,system,25,US,UberEATS Marketplace (order),false,en_US,chat,eater,448fa2a3-65db-490b-95d3-758fa31dc95e
+2020-07-20 22:27:07,2020-07-20 23:24:39,7568e66a-c8e4-491a-9a09-7e23c67d4d8a,archived,inapp,25,US,UberEATS Marketplace (delivery),false,en_US,messaging,eater,448fa2a3-65db-490b-95d3-758fa31dc95e

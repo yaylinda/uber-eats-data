@@ -1,0 +1,371 @@
+Territory,Restaurant ID,Order ID,Order Time,Order Status,Item Name,Customizations,Special Instructions,Item Price,Order Price,Currency
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,4e64494b-df77-445f-a67f-3d7c3a401553,2021-12-11 19:41:51 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,4e64494b-df77-445f-a67f-3d7c3a401553,2021-12-11 19:41:51 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,edadeb2d-94ca-4895-8c30-920d41a4d2fb,2021-12-07 23:55:30 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos",,11.95,44.03,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,edadeb2d-94ca-4895-8c30-920d41a4d2fb,2021-12-07 23:55:30 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,44.03,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,edadeb2d-94ca-4895-8c30-920d41a4d2fb,2021-12-07 23:55:30 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,44.03,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,6.29,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Medium French Fries,"Large French Fries, Salt",,3.79,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Creamy Ranch Sauce,,,0,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Creamy Ranch Sauce,,,0,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Ketchup Packet,,,0,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Ketchup Packet,,,0,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Ketchup Packet,,,0,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Ketchup Packet,,,0,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,Ketchup Packet,,,0,17.05,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,b91749c4-9ad2-47dd-bc43-7d4bb59846bb,2021-12-05 05:34:54 +0000 UTC,completed,6 Piece McNuggets,Tangy Honey Mustard,,3.79,17.05,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,b5f15691-66eb-40ee-a361-30399b8ab00e,2021-12-02 05:14:04 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,b5f15691-66eb-40ee-a361-30399b8ab00e,2021-12-02 05:14:04 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,8c755f2b-e90e-4054-bbd1-0547a63c0aa5,2021-11-29 23:48:59 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,8c755f2b-e90e-4054-bbd1-0547a63c0aa5,2021-11-29 23:48:59 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,21484f44-8aa2-4f47-8454-4aa8617992d1,d15baff4-7aaf-469a-beff-418ad11f7808,2021-11-23 05:08:29 +0000 UTC,completed,8 pc. Family Bucket Meal,"Standard Bucket, Original Recipe, Mashed Potatoes & Gravy, Whole Kernel Corn, Add Plates",,0,46.3,USD
+p,21484f44-8aa2-4f47-8454-4aa8617992d1,d15baff4-7aaf-469a-beff-418ad11f7808,2021-11-23 05:08:29 +0000 UTC,completed,Famous Bowl,,,5.99,46.3,USD
+p,21484f44-8aa2-4f47-8454-4aa8617992d1,d15baff4-7aaf-469a-beff-418ad11f7808,2021-11-23 05:08:29 +0000 UTC,completed,Mashed Potatoes & Gravy,Large Mashed Potatoes & Gravy,,0,46.3,USD
+p,21484f44-8aa2-4f47-8454-4aa8617992d1,d15baff4-7aaf-469a-beff-418ad11f7808,2021-11-23 05:08:29 +0000 UTC,completed,2 Biscuits,Honey Sauce,,1.91,46.3,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,61c83993-a9fb-43a1-9005-0560c91180ae,2021-11-19 23:33:26 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,61c83993-a9fb-43a1-9005-0560c91180ae,2021-11-19 23:33:26 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,4042fca6-4c34-4b85-a1f8-9e63dc9a3fec,2021-11-17 22:54:42 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,18.01,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,16fc26bf-e790-4bd2-aff4-689dc5cb7d17,2021-11-16 04:57:54 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,16fc26bf-e790-4bd2-aff4-689dc5cb7d17,2021-11-16 04:57:54 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5cd53ffa-ba49-464a-a75a-d1c6e4bbc808,2021-11-12 20:17:27 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos, Extra Hot Sauce",,11.95,29.9,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5cd53ffa-ba49-464a-a75a-d1c6e4bbc808,2021-11-12 20:17:27 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.9,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7a5b8888-f0bd-4372-bcc0-ada9e0fbd09f,2021-11-09 22:52:40 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7a5b8888-f0bd-4372-bcc0-ada9e0fbd09f,2021-11-09 22:52:40 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos",,11.95,29.33,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,6.29,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Creamy Ranch Sauce,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Creamy Ranch Sauce,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,Medium French Fries,"Large French Fries, Salt",,3.79,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0c6df298-9b7f-4a4f-a0f9-46da7615000b,2021-11-09 05:54:25 +0000 UTC,completed,10 Piece McNuggets,Spicy Buffalo,,5.99,19.11,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,244cc05e-4d56-43ad-828e-b12dfad01eb1,2021-11-03 02:50:52 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,244cc05e-4d56-43ad-828e-b12dfad01eb1,2021-11-03 02:50:52 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,444c30d8-80b3-4200-8bc1-3fd1e74fcf6e,2021-11-03 02:08:50 +0000 UTC,canceled,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,0,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,3.79,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,10 Piece McNuggets,"Creamy Ranch Sauce, Spicy Buffalo",,5.99,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,6.29,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Creamy Ranch Sauce,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Creamy Ranch Sauce,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,305ac3a3-7871-4580-8149-83ecb5160651,2021-10-29 04:24:33 +0000 UTC,completed,Ketchup Packet,,,0,19.11,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,0d05c483-bf4f-4516-99e8-ebd3fba383d0,2021-10-17 05:07:11 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,18.01,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,d102770d-2338-46dd-a19d-199721c88e7e,2021-10-16 03:43:01 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,18.01,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,f98ca324-8283-4cd9-9c0b-d9c1efeb6c63,2021-10-12 23:38:40 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos",,11.95,27.19,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,f98ca324-8283-4cd9-9c0b-d9c1efeb6c63,2021-10-12 23:38:40 +0000 UTC,completed,Chicken Platter,"Regular, No Rice, Chopped Onions",,11.95,27.19,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,d2eafd8c-9cfa-42f0-88f3-297cf1a277f2,2021-10-10 05:28:11 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos, Extra Hot Sauce",,11.95,24.9,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,d2eafd8c-9cfa-42f0-88f3-297cf1a277f2,2021-10-10 05:28:11 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,24.9,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,18f17cbf-0c35-4d88-84f8-98624db4a356,2021-10-08 19:49:10 +0000 UTC,completed,Chicken Platter,"Regular, No Pita",,11.95,18.01,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,8ec705b2-be61-4586-9a32-a3a8eb959d55,2021-10-05 17:29:16 +0000 UTC,completed,Chicken Platter,"Regular, No Pita",,11.95,18.01,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Ketchup Packet,,,0,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Ketchup Packet,,,0,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Ketchup Packet,,,0,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Ketchup Packet,,,0,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Ketchup Packet,,,0,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,4 Piece McNuggets,Tangy Honey Mustard,,2.59,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Creamy Ranch Sauce,,,0,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Creamy Ranch Sauce,,,0,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,6.29,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Medium French Fries,"Medium French Fries, Salt",,3.79,18.53,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce7c4ca3-2381-4207-8161-f1f5236d87e7,2021-09-30 02:55:43 +0000 UTC,completed,Plain Sundae,,,3.29,18.53,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,16278303-2150-4f92-8148-f931ffb5a443,2021-09-28 21:56:13 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.9,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,16278303-2150-4f92-8148-f931ffb5a443,2021-09-28 21:56:13 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Rice, No Tomatoes, Chopped Green Peppers, Add Jalapenos, Extra Hot Sauce",,11.95,29.9,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,0fe98b3a-0dc2-46a1-82be-b0b008433917,2021-09-27 20:13:34 +0000 UTC,completed,Chicken Platter,"Regular, No Pita",,11.95,17.01,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c6cc3bf2-cc93-482b-b4d9-e89860cc8f55,2021-08-12 03:53:02 +0000 UTC,completed,Chicken Platter,"Regular, No Pita",,10.95,17.02,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,03d4c8db-aebf-4b7c-9484-d644fb2d2fbf,2021-08-10 23:12:16 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, No Rice, No Pita, Extra Protein (Chicken & Gyro), Chopped Green Peppers, Add Jalapenos, Extra Hot Sauce",,10.95,32.5,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,03d4c8db-aebf-4b7c-9484-d644fb2d2fbf,2021-08-10 23:12:16 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,32.5,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,2c1a159f-de2e-43e0-9f2a-53a061baa3a5,2021-07-30 23:13:38 +0000 UTC,completed,Chicken Platter,"Regular, No Pita",,10.95,17.02,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,4 Piece McNuggets,Tangy BBQ Dipping Sauce,,2.29,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,5.99,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Creamy Ranch Sauce,,,0,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Creamy Ranch Sauce,,,0,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,3.49,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Regular Oreo McFlurry,"Oreo Topping, Snack Oreo® McFlurry",,3.74,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Ketchup Packet,,,0,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Ketchup Packet,,,0,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Ketchup Packet,,,0,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Ketchup Packet,,,0,19.62,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,0114c177-f47b-4e26-ae7d-f96671b045fb,2021-07-26 04:10:39 +0000 UTC,completed,Ketchup Packet,,,0,19.62,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,354cbe60-20f4-4a46-8cf8-c12ca8fa2a23,2021-07-25 05:05:21 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,30.32,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,354cbe60-20f4-4a46-8cf8-c12ca8fa2a23,2021-07-25 05:05:21 +0000 UTC,completed,Hot Sauce Packet To-Go,,,0.5,30.32,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,354cbe60-20f4-4a46-8cf8-c12ca8fa2a23,2021-07-25 05:05:21 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Tomatoes, No Lettuce, Chopped Green Peppers, Add Jalapenos",,10.95,30.32,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,354cbe60-20f4-4a46-8cf8-c12ca8fa2a23,2021-07-25 05:05:21 +0000 UTC,completed,White Sauce Packet To-Go,,,0.95,30.32,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,ca1f7b57-2da3-4222-93cd-82b98274bbf2,2021-07-23 21:44:47 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,17.02,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,e5044cdb-5ed9-4c6f-8944-150074ba40a0,2021-07-18 05:11:57 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,17.02,USD
+p,9b854f6d-ca1b-4727-bd42-3c8ba57be746,81f157c1-a566-48e9-afdb-ff0fa27787ff,2021-07-18 00:58:17 +0000 UTC,completed,Classic Grilled Cheese & Creamy Tomato Soup,"Half Classic Grilled Cheese Sandwich (430 Cal.), Creamy Tomato Soup (230 Cal.), French Baguette (180 Cal.)",,6.79,27.53,USD
+p,9b854f6d-ca1b-4727-bd42-3c8ba57be746,81f157c1-a566-48e9-afdb-ff0fa27787ff,2021-07-18 00:58:17 +0000 UTC,completed,Napa Almond Chicken Salad Sandwich,"Chips (150 Cal.), Whole",,6.59,27.53,USD
+p,9b854f6d-ca1b-4727-bd42-3c8ba57be746,81f157c1-a566-48e9-afdb-ff0fa27787ff,2021-07-18 00:58:17 +0000 UTC,completed,Summer Corn Chowder - Group,"French Baguette (180 Cal.), Bowl",,6.09,27.53,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,52c98a40-d206-4939-b039-a95d6187bf05,2021-07-16 04:00:51 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,16.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c948b2ff-ccb3-4de4-aad5-8174f1ae5d51,2021-07-14 23:15:43 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Tomatoes, No Lettuce, Chopped Green Peppers, Add Jalapenos",,10.95,30.48,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c948b2ff-ccb3-4de4-aad5-8174f1ae5d51,2021-07-14 23:15:43 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,30.48,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c948b2ff-ccb3-4de4-aad5-8174f1ae5d51,2021-07-14 23:15:43 +0000 UTC,completed,Hot Sauce Packet To-Go,,,0.5,30.48,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c948b2ff-ccb3-4de4-aad5-8174f1ae5d51,2021-07-14 23:15:43 +0000 UTC,completed,White Sauce Packet To-Go,,,0.95,30.48,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Regular Oreo McFlurry,"Oreo Topping, Regular Oreo McFlurry",,3.74,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Creamy Ranch Sauce,,,0,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Creamy Ranch Sauce,,,0,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,3.49,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,5.99,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Apple Pie,,,1.69,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Ketchup Packet,,,0,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Ketchup Packet,,,0,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Ketchup Packet,,,0,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Ketchup Packet,,,0,18.89,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f86f0341-4cf0-4393-92d6-25fe1cb4593d,2021-07-11 04:14:47 +0000 UTC,completed,Ketchup Packet,,,0,18.89,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,bdc6395c-b23d-450c-8624-5dbeef5536cd,2021-07-09 23:20:54 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,28.73,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,bdc6395c-b23d-450c-8624-5dbeef5536cd,2021-07-09 23:20:54 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,28.73,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,3b5a09ef-80ba-492f-a0d7-48014c0b1283,2021-07-06 18:24:36 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,51908382-5f4d-4e24-88e2-4c252a7ec990,2021-07-01 23:04:46 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,18e68c1d-d879-4a37-af2e-6a643c1c314b,2021-06-30 23:38:05 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,1effa7ea-f1fe-4720-be9d-e6aa1012ff90,2021-06-18 22:42:44 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5d193f49-c16a-48fc-a5c6-749525ace830,2021-06-17 23:24:26 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,bdf560ef-778e-4a98-8db3-f9eec806d804,2021-06-11 03:19:15 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.73,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,bdf560ef-778e-4a98-8db3-f9eec806d804,2021-06-11 03:19:15 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.73,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5a50135c-cc91-4326-a049-11d8355139b3,2021-06-08 20:51:42 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,9b854f6d-ca1b-4727-bd42-3c8ba57be746,40bd7868-8897-47d5-a4eb-d9c3138f3ad0,2021-06-07 23:09:20 +0000 UTC,completed,NEW Homestyle Chicken Noodle Soup,"Bowl, French Baguette (180 Cal.)",,6.09,33.61,USD
+p,9b854f6d-ca1b-4727-bd42-3c8ba57be746,40bd7868-8897-47d5-a4eb-d9c3138f3ad0,2021-06-07 23:09:20 +0000 UTC,completed,Creamy Tomato Soup,"French Baguette (180 Cal.), Bowl",,6.09,33.61,USD
+p,9b854f6d-ca1b-4727-bd42-3c8ba57be746,40bd7868-8897-47d5-a4eb-d9c3138f3ad0,2021-06-07 23:09:20 +0000 UTC,completed,Broccoli Cheddar Soup,"French Baguette (180 Cal.), Bowl",,6.09,33.61,USD
+p,9b854f6d-ca1b-4727-bd42-3c8ba57be746,40bd7868-8897-47d5-a4eb-d9c3138f3ad0,2021-06-07 23:09:20 +0000 UTC,completed,Broccoli Cheddar Soup,"French Baguette (180 Cal.), Bowl",,6.09,33.61,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,551faeed-463d-41c5-a147-7fc84ba9b3f4,2021-06-02 03:24:00 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,14a8a964-87fa-477b-baec-725976cf7cc1,2021-05-27 03:42:25 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Jalapenos",,10.95,27.73,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,14a8a964-87fa-477b-baec-725976cf7cc1,2021-05-27 03:42:25 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.73,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,d3068615-3111-42e6-afdb-54c94c551202,2021-05-18 20:22:26 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c0378120-9c7e-441d-9452-6e9d341fb9e7,2021-05-16 20:33:52 +0000 UTC,completed,White Sauce Packet,,,0.95,18.71,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c0378120-9c7e-441d-9452-6e9d341fb9e7,2021-05-16 20:33:52 +0000 UTC,completed,French Fries,,,3.49,18.71,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c0378120-9c7e-441d-9452-6e9d341fb9e7,2021-05-16 20:33:52 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,18.71,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,6.19,19.92,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,Plain Sundae,,,2.99,19.92,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,Ketchup Packet,,,0,19.92,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,Ketchup Packet,,,0,19.92,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,Ketchup Packet,,,0,19.92,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,Ketchup Packet,,,0,19.92,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,Ketchup Packet,,,0,19.92,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,6 Piece McNuggets,Creamy Ranch Sauce,,3.09,19.92,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,ce152aa4-ab48-4e9d-b670-52998320039c,2021-05-15 04:55:09 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,3.49,19.92,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,dd8a2746-f590-49bb-bbd6-70050274fbef,2021-05-09 05:28:56 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Jalapenos",,10.95,28.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,dd8a2746-f590-49bb-bbd6-70050274fbef,2021-05-09 05:28:56 +0000 UTC,completed,Hot Sauce Packet,,,0.5,28.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,dd8a2746-f590-49bb-bbd6-70050274fbef,2021-05-09 05:28:56 +0000 UTC,completed,Hot Sauce Packet,,,0.5,28.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,dd8a2746-f590-49bb-bbd6-70050274fbef,2021-05-09 05:28:56 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,28.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,9164d002-0915-45cf-aae4-006546044f3f,2021-05-07 19:02:00 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,3c5e7db0-b269-40d9-82d0-68318b39bef5,2021-05-06 22:11:00 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,5.89,24.53,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,2.99,24.53,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,2.99,24.53,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,10 Piece McNuggets,"Creamy Ranch Sauce, Spicy Buffalo",,6.19,24.53,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,Ketchup Packet,,,0,24.53,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,Ketchup Packet,,,0,24.53,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,Ketchup Packet,,,0,24.53,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,Ketchup Packet,,,0,24.53,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,7d83261e-2b90-4847-8b97-a72e1ff9cc24,2021-05-03 04:19:12 +0000 UTC,completed,Ketchup Packet,,,0,24.53,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,217e6e68-e827-4a87-95dd-94a9e8fa7f81,2021-04-29 22:03:53 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.73,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,217e6e68-e827-4a87-95dd-94a9e8fa7f81,2021-04-29 22:03:53 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.73,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,040e58ed-d4da-46fa-a36e-161ffbf1e813,2021-04-23 00:21:47 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Jalapenos",,10.95,44.12,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,040e58ed-d4da-46fa-a36e-161ffbf1e813,2021-04-23 00:21:47 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,44.12,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,040e58ed-d4da-46fa-a36e-161ffbf1e813,2021-04-23 00:21:47 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,44.12,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,040e58ed-d4da-46fa-a36e-161ffbf1e813,2021-04-23 00:21:47 +0000 UTC,completed,French Fries,,,3.49,44.12,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5b24cbef-c26a-4de7-bc4e-227f4f7021b7,2021-04-16 21:19:34 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,57f1923b-c3e1-4251-9c00-3402fe4101b8,2021-04-15 02:59:44 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,15.93,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Ketchup Packet,,,0,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Ketchup Packet,,,0,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Ketchup Packet,,,0,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Ketchup Packet,,,0,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Ketchup Packet,,,0,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Spicy Buffalo,,,0,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Spicy Buffalo,,,0,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,3.19,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,3.19,19.65,USD
+p,8faa2ff1-b9ac-481e-a646-c67190539b26,0539fa43-0656-45be-bb80-ee0d6a7246ab,2021-04-11 08:28:45 +0000 UTC,completed,20 Piece McNuggets,"Creamy Ranch Sauce, Spicy Buffalo",,6.49,19.65,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,ce285b5e-1c8a-432f-8556-e37a410fc7f5,2021-04-10 02:19:05 +0000 UTC,completed,French Fries,,,3.49,17.44,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,ce285b5e-1c8a-432f-8556-e37a410fc7f5,2021-04-10 02:19:05 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,17.44,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,238e4007-fabb-4cd7-94f8-3419ff754b0d,2021-04-07 22:00:12 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,17.44,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,238e4007-fabb-4cd7-94f8-3419ff754b0d,2021-04-07 22:00:12 +0000 UTC,completed,French Fries,,,3.49,17.44,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7dcf8197-9965-4212-961d-346f26eabaa6,2021-04-02 23:48:06 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,17.44,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7dcf8197-9965-4212-961d-346f26eabaa6,2021-04-02 23:48:06 +0000 UTC,completed,French Fries,,,3.49,17.44,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,1900eab1-6494-41a3-9fc3-989886465d7a,2021-03-26 23:27:33 +0000 UTC,completed,French Fries,,,3.49,17.89,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,1900eab1-6494-41a3-9fc3-989886465d7a,2021-03-26 23:27:33 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,17.89,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,6f12ba61-d6b3-47a4-a4fc-f1500a6a4df2,2021-03-20 21:29:52 +0000 UTC,completed,French Fries,,,3.49,17.89,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,6f12ba61-d6b3-47a4-a4fc-f1500a6a4df2,2021-03-20 21:29:52 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,17.89,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,Regular Oreo McFlurry,"Oreo Topping, Snack Oreo® McFlurry",,3.79,19.68,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,2.99,19.68,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,6 Piece McNuggets,Creamy Ranch Sauce,,2.89,19.68,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,5.89,19.68,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,Ketchup Packet,,,0,19.68,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,Ketchup Packet,,,0,19.68,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,Ketchup Packet,,,0,19.68,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,Ketchup Packet,,,0,19.68,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f3fa89f3-8763-4f2a-bdbc-27a62367cefc,2021-03-19 23:15:40 +0000 UTC,completed,Ketchup Packet,,,0,19.68,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,b1cfd7ea-5ecc-4f9b-8e42-5cb42d42b5ac,2021-03-19 22:42:17 +0000 UTC,canceled,Spicy Deluxe Sandwich,"White Bun, Chick-fil-A® Sauce, Spicy Deluxe Sandwich w/ Pepper Jack",,5.8,0,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,b1cfd7ea-5ecc-4f9b-8e42-5cb42d42b5ac,2021-03-19 22:42:17 +0000 UTC,canceled,Chick-fil-A® Nuggets,"Chick-fil-A® Sauce, 4 ct Chick-fil-A® Nuggets, 8 ct Chick-fil-A® Nuggets",,5,0,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,b1cfd7ea-5ecc-4f9b-8e42-5cb42d42b5ac,2021-03-19 22:42:17 +0000 UTC,canceled,Chick-fil-A Waffle Potato Fries®,"Medium Chick-fil-A Waffle Potato Fries®, Salt, Garden Herb Ranch Sauce",,2.55,0,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,741a7ad9-9c38-4c9e-8d99-dbd2e6ff22e3,2021-03-19 22:32:17 +0000 UTC,unfulfilled,Spicy Deluxe Sandwich,"White Bun, Chick-fil-A® Sauce, Spicy Deluxe Sandwich w/ Pepper Jack",,5.8,0,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,741a7ad9-9c38-4c9e-8d99-dbd2e6ff22e3,2021-03-19 22:32:17 +0000 UTC,unfulfilled,Chick-fil-A Waffle Potato Fries®,"Salt, Garden Herb Ranch Sauce, Medium Chick-fil-A Waffle Potato Fries®",,2.55,0,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,741a7ad9-9c38-4c9e-8d99-dbd2e6ff22e3,2021-03-19 22:32:17 +0000 UTC,unfulfilled,Chick-fil-A® Nuggets,"Chick-fil-A® Sauce, 4 ct Chick-fil-A® Nuggets, 8 ct Chick-fil-A® Nuggets",,5,0,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,0baf0e4f-7cfc-40fc-98bf-885e080b7d11,2021-03-17 00:01:56 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,17.89,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,0baf0e4f-7cfc-40fc-98bf-885e080b7d11,2021-03-17 00:01:56 +0000 UTC,completed,French Fries,,,3.49,17.89,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,81a095a9-34bd-4962-8860-ef47df8180a6,2021-03-13 01:43:19 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,16.38,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,617ef0b8-6950-4e4e-9a2b-d463aff1503f,2021-02-28 03:00:39 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,16.38,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,8728f16e-17ad-448d-a1c2-5280b66c7c64,2021-02-19 23:11:56 +0000 UTC,completed,Spicy Deluxe Sandwich,"Chick-fil-A® Sauce, Spicy Deluxe Sandwich w/ Pepper Jack, White Bun",,5.8,17.9,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,8728f16e-17ad-448d-a1c2-5280b66c7c64,2021-02-19 23:11:56 +0000 UTC,completed,Chick-fil-A Waffle Potato Fries®,"Polynesian Sauce, Garden Herb Ranch Sauce, Sweet and Spicy Sriracha Sauce, Large Chick-fil-A Waffle Potato Fries®, Salt",,2.2,17.9,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,8728f16e-17ad-448d-a1c2-5280b66c7c64,2021-02-19 23:11:56 +0000 UTC,completed,Chick-fil-A® Nuggets,"Chick-fil-A® Sauce, 4 ct Chick-fil-A® Nuggets, 8 ct Chick-fil-A® Nuggets",,5,17.9,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,8728f16e-17ad-448d-a1c2-5280b66c7c64,2021-02-19 23:11:56 +0000 UTC,completed,Chicken Noodle Soup,"Saltines, Cup of Chicken Noodle Soup",,3.9,17.9,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,d9392d1c-9952-47b9-a056-bda9e57bad31,2021-02-12 23:48:29 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,16.38,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,4 Piece Chicken McNugget - Happy Meal,"Apple Slices, Pokemon 25, Milk, Ketchup Packet, Salt",,4.93,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,5.89,64.41,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,d20857ea-19ca-4233-9936-10bd2e4da174,2021-02-09 23:48:10 +0000 UTC,completed,Hamburger,"Mustard, Ketchup, Diced Onions, Pickle, Meat, Regular Bun, Salt, Plain",,1.29,64.41,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,75c749a5-7d55-4ddc-aebd-725b9db08781,2021-02-06 00:15:36 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,16.89,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,8e4b3b1a-e58a-4654-a007-fec7162f6a7b,2021-01-29 01:24:26 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.02,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,8e4b3b1a-e58a-4654-a007-fec7162f6a7b,2021-01-29 01:24:26 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.02,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,90eb0e43-cf09-45fa-b5b2-b27ce03161ca,2021-01-23 02:20:35 +0000 UTC,completed,Spicy Szechuan,"Beef, Steamed Rice",Extra spicy,8.99,28.25,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,90eb0e43-cf09-45fa-b5b2-b27ce03161ca,2021-01-23 02:20:35 +0000 UTC,completed,Egg Drop Soup,Large,,2.49,28.25,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,90eb0e43-cf09-45fa-b5b2-b27ce03161ca,2021-01-23 02:20:35 +0000 UTC,completed,Spicy Szechuan,"Chicken, Steamed Rice",Extra spicy,8.99,28.25,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,999afaae-082d-4a83-8cd5-6b65970e44f8,2021-01-21 00:02:03 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,28.22,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,999afaae-082d-4a83-8cd5-6b65970e44f8,2021-01-21 00:02:03 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,28.22,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7e73d157-66b9-492f-a3cf-d6a8acae113d,2021-01-15 22:25:53 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.02,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7e73d157-66b9-492f-a3cf-d6a8acae113d,2021-01-15 22:25:53 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.02,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,fb54854f-5745-43c8-916d-9f8ed3be523c,2021-01-14 23:09:36 +0000 UTC,completed,Spicy Deluxe Sandwich,"Chick-fil-A® Sauce, Spicy Deluxe Sandwich w/ Pepper Jack",,6.1,16.54,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,fb54854f-5745-43c8-916d-9f8ed3be523c,2021-01-14 23:09:36 +0000 UTC,completed,Chick-fil-A® Nuggets,"Chick-fil-A® Sauce, 4 ct Chick-fil-A® Nuggets, 8 ct Chick-fil-A® Nuggets",,5,16.54,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,fb54854f-5745-43c8-916d-9f8ed3be523c,2021-01-14 23:09:36 +0000 UTC,completed,Chicken Noodle Soup,"Saltines, Cup of Chicken Noodle Soup",,3.9,16.54,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,e390b27a-3987-49f5-9453-acd63c80d4fb,2021-01-14 01:07:03 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,16.89,USD
+p,7ec38752-250a-4cb4-b1b0-f442016a629f,a7c9a0f9-ed18-4520-9030-9222bab9231d,2021-01-13 01:30:24 +0000 UTC,completed,"Turkey Bacon Ranch ™, Medium","MD Wheat Bread, Side Pickle, Cheddar, Bacon, Turkey, Lettuce, Onion, Tomato, Mayo,  Peppercorn Ranch Dressing ",,9.9,29.51,USD
+p,7ec38752-250a-4cb4-b1b0-f442016a629f,a7c9a0f9-ed18-4520-9030-9222bab9231d,2021-01-13 01:30:24 +0000 UTC,completed,"Turkey Bacon Ranch ™, Medium","MD White Bread, Side Pickle, Cheddar, Bacon, Turkey, Lettuce, Onion, Tomato, Mayo,  Peppercorn Ranch Dressing ",,9.9,29.51,USD
+p,7ec38752-250a-4cb4-b1b0-f442016a629f,a7c9a0f9-ed18-4520-9030-9222bab9231d,2021-01-13 01:30:24 +0000 UTC,completed,"Soups, Bowl of Loaded Potato",,,5.85,29.51,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,63e35191-422f-4a13-8649-9c5b5a59339a,2021-01-09 02:35:33 +0000 UTC,completed,Chicken Noodle Soup,"Saltines, Cup of Chicken Noodle Soup",,3.9,18.83,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,63e35191-422f-4a13-8649-9c5b5a59339a,2021-01-09 02:35:33 +0000 UTC,completed,Chick-fil-A® Nuggets,"Chick-fil-A® Sauce, 4 ct Chick-fil-A® Nuggets, 8 ct Chick-fil-A® Nuggets",,5,18.83,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,63e35191-422f-4a13-8649-9c5b5a59339a,2021-01-09 02:35:33 +0000 UTC,completed,Spicy Deluxe Sandwich,"Chick-fil-A® Sauce, Spicy Deluxe Sandwich w/ Pepper Jack",,6.1,18.83,USD
+p,c0e74eb2-f68b-431b-abbc-ac77b4776bd7,63e35191-422f-4a13-8649-9c5b5a59339a,2021-01-09 02:35:33 +0000 UTC,completed,Mac & Cheese,"Small Mac & Cheese, Medium Mac & Cheese",,4.15,18.83,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,cad35323-b82e-4513-98c1-aea0993d1c11,2021-01-05 00:41:47 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Jalapenos",,10.95,28.15,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,cad35323-b82e-4513-98c1-aea0993d1c11,2021-01-05 00:41:47 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,28.15,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,cad35323-b82e-4513-98c1-aea0993d1c11,2021-01-05 00:41:47 +0000 UTC,completed,Hot Sauce Packet,,,0.5,28.15,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,cad35323-b82e-4513-98c1-aea0993d1c11,2021-01-05 00:41:47 +0000 UTC,completed,Hot Sauce Packet,,,0.5,28.15,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c31274cf-a010-4ebe-9f48-a7c7b0ede57e,2020-12-31 02:22:41 +0000 UTC,completed,Hot Sauce Packet,,,0.5,29.29,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c31274cf-a010-4ebe-9f48-a7c7b0ede57e,2020-12-31 02:22:41 +0000 UTC,completed,Hot Sauce Packet,,,0.5,29.29,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c31274cf-a010-4ebe-9f48-a7c7b0ede57e,2020-12-31 02:22:41 +0000 UTC,completed,Hot Sauce Packet,,,0.5,29.29,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c31274cf-a010-4ebe-9f48-a7c7b0ede57e,2020-12-31 02:22:41 +0000 UTC,completed,Hot Sauce Packet,,,0.5,29.29,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c31274cf-a010-4ebe-9f48-a7c7b0ede57e,2020-12-31 02:22:41 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,29.29,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c31274cf-a010-4ebe-9f48-a7c7b0ede57e,2020-12-31 02:22:41 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Jalapenos",,10.95,29.29,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Fire Sauce Packet,,,0,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Fire Sauce Packet,,,0,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Fire Sauce Packet,,,0,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Fire Sauce Packet,,,0,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Fire Sauce Packet,,,0,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Soft Taco,,,1.63,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Soft Taco,,,1.63,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Soft Taco,,,1.63,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Soft Taco,,,1.63,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Soft Taco,No Lettuce,,1.63,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Soft Taco,No Lettuce,,1.63,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Soft Taco,No Lettuce,,1.63,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Soft Taco,No Lettuce,,1.63,19.53,USD
+p,94ab8da7-c8c5-4f82-99a0-946581ed6230,7c846a9d-b232-4e05-b9c1-0a5c5394af19,2020-12-27 07:32:35 +0000 UTC,completed,Quesarito,Quesarito - Seasoned Beef,,3.5,19.53,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,bb224319-4b4b-4fa3-b7b4-5c8802ac5e28,2020-12-18 23:48:02 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Jalapenos",,10.95,27.02,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,bb224319-4b4b-4fa3-b7b4-5c8802ac5e28,2020-12-18 23:48:02 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,27.02,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,1622abb3-19f1-429a-a5e7-e06f9b2bb390,2020-12-11 23:37:44 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,26.51,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,1622abb3-19f1-429a-a5e7-e06f9b2bb390,2020-12-11 23:37:44 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Jalapenos",,10.95,26.51,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Creamy Ranch Sauce,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Creamy Ranch Sauce,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,20 Piece McNuggets,"Hot Mustard Dipping Sauce, Tangy Honey Mustard, Spicy Buffalo",,6.99,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Plain Sundae,,,2.49,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Ketchup Packet,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Ketchup Packet,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Ketchup Packet,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Ketchup Packet,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Ketchup Packet,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Tangy Honey Mustard,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Tangy BBQ Dipping Sauce,,,0,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Medium French Fries,"Large French Fries, Salt",,3.29,20.2,USD
+p,49f41eda-a91c-41f9-a5f5-83ee911ca0af,f9069455-4495-4195-aff3-6e78df468eb5,2020-12-10 06:01:26 +0000 UTC,completed,Medium French Fries,"Large French Fries, Salt",,3.29,20.2,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,65755f9a-85fd-4034-9d58-99833f3543a7,2020-12-04 23:51:35 +0000 UTC,completed,Spicy Szechuan,"Chicken, Steamed Rice","Extra spicy, no onions",8.99,43.79,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,65755f9a-85fd-4034-9d58-99833f3543a7,2020-12-04 23:51:35 +0000 UTC,completed,Spicy Szechuan,"Beef, Steamed Rice",Extra spicy,8.99,43.79,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,65755f9a-85fd-4034-9d58-99833f3543a7,2020-12-04 23:51:35 +0000 UTC,completed,Egg Drop Soup,Large,,2.49,43.79,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,65755f9a-85fd-4034-9d58-99833f3543a7,2020-12-04 23:51:35 +0000 UTC,completed,Broccoli,"Beef, Steamed Rice",Extra spicy,8.99,43.79,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5102c450-0423-4258-9904-7417e21cf3ed,2020-11-27 21:13:52 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Jalapenos",,10.95,26.51,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5102c450-0423-4258-9904-7417e21cf3ed,2020-11-27 21:13:52 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,10.95,26.51,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,a45dc87d-e601-41aa-9918-99aedd0e5946,2020-11-20 21:00:52 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions",,10.95,26.51,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,a45dc87d-e601-41aa-9918-99aedd0e5946,2020-11-20 21:00:52 +0000 UTC,completed,Combo (Chicken and Gyro) Platter,"Regular, Chopped Green Peppers, Jalapenos",,10.95,26.51,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7d862b14-2718-4d9d-8487-00a92c4388c6,2020-11-14 00:02:59 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions",,10.95,14.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,957705c2-4f78-4ba4-964b-e4c0984446cf,2020-11-09 05:02:50 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,24.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,957705c2-4f78-4ba4-964b-e4c0984446cf,2020-11-09 05:02:50 +0000 UTC,completed,Combo Platter,"Small (Default Small- if regular not selected), Gyro & Chicken, Gyro, No Lettuce, No Tomatoes, Sliced Jalapenos, Green Bell Peppers",,10.95,24.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5086ec4c-49d9-47cc-8867-b654d4f8736d,2020-11-06 22:31:56 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.44,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5086ec4c-49d9-47cc-8867-b654d4f8736d,2020-11-06 22:31:56 +0000 UTC,completed,Fries,,,3.49,17.44,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7b3ecedc-76f4-4346-8ed1-1e053c84730f,2020-10-30 21:55:49 +0000 UTC,completed,Combo Platter,"Small (Default Small- if regular not selected), Gyro & Chicken, Gyro, No Lettuce, No Tomatoes, Sliced Jalapenos, Green Bell Peppers",,10.95,24.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7b3ecedc-76f4-4346-8ed1-1e053c84730f,2020-10-30 21:55:49 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,24.93,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,1b044928-d2fa-4e37-802d-4336d0d449f0,2020-10-23 22:39:11 +0000 UTC,completed,Fries,,,3.49,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,1b044928-d2fa-4e37-802d-4336d0d449f0,2020-10-23 22:39:11 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c24efcdb-fefe-4ea2-b6f7-ee88ad7a5ff1,2020-10-19 22:31:29 +0000 UTC,completed,Fries,,,3.49,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c24efcdb-fefe-4ea2-b6f7-ee88ad7a5ff1,2020-10-19 22:31:29 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,52cf70cd-316d-4be9-a5e2-7682f361f73f,2020-10-09 22:10:42 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,52cf70cd-316d-4be9-a5e2-7682f361f73f,2020-10-09 22:10:42 +0000 UTC,completed,Fries,,,3.49,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,a31d1faf-008f-4e2b-9b92-50124b6c9d4d,2020-10-02 20:58:55 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,a31d1faf-008f-4e2b-9b92-50124b6c9d4d,2020-10-02 20:58:55 +0000 UTC,completed,Fries,,,3.49,17.26,USD
+p,5c2b16b7-9ad2-4b36-9c5b-da1730c8f006,fd4d4f4d-83b1-4119-b5a8-638f0093620a,2020-09-27 03:50:42 +0000 UTC,completed,Large Oreo® Shake,,,4.99,29.86,USD
+p,5c2b16b7-9ad2-4b36-9c5b-da1730c8f006,fd4d4f4d-83b1-4119-b5a8-638f0093620a,2020-09-27 03:50:42 +0000 UTC,completed,Tiny Tacos (15 pcs),,,3.75,29.86,USD
+p,5c2b16b7-9ad2-4b36-9c5b-da1730c8f006,fd4d4f4d-83b1-4119-b5a8-638f0093620a,2020-09-27 03:50:42 +0000 UTC,completed,Tiny Tacos (15 pcs),,,3.75,29.86,USD
+p,5c2b16b7-9ad2-4b36-9c5b-da1730c8f006,fd4d4f4d-83b1-4119-b5a8-638f0093620a,2020-09-27 03:50:42 +0000 UTC,completed,5 pc Spicy Chicken Strips,Add Buttermilk Ranch Sauce,,7.11,29.86,USD
+p,5c2b16b7-9ad2-4b36-9c5b-da1730c8f006,fd4d4f4d-83b1-4119-b5a8-638f0093620a,2020-09-27 03:50:42 +0000 UTC,completed,Large Curly Fry,,,3.99,29.86,USD
+p,5c2b16b7-9ad2-4b36-9c5b-da1730c8f006,fd4d4f4d-83b1-4119-b5a8-638f0093620a,2020-09-27 03:50:42 +0000 UTC,completed,Large Curly Fry,,,3.99,29.86,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Regular Oreo McFlurry,"Oreo Topping, Regular Oreo McFlurry",,3.35,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun",,5.39,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,6 Piece McNuggets,Tangy BBQ Dipping Sauce,,2.4,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,2.75,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Creamy Ranch Sauce,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,d621bfab-7bdf-42ce-814d-f441ec4c4992,2020-09-26 00:04:13 +0000 UTC,completed,Creamy Ranch Sauce,,,0,18.06,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5e5b0c77-e96d-4f93-8f6e-d5ebee8e136e,2020-09-18 23:03:30 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,5e5b0c77-e96d-4f93-8f6e-d5ebee8e136e,2020-09-18 23:03:30 +0000 UTC,completed,Fries,,,3.49,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,b82b6231-83a2-4429-b4d0-373c39d9b0ed,2020-09-09 22:42:15 +0000 UTC,completed,Fries,,,3.49,17.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,b82b6231-83a2-4429-b4d0-373c39d9b0ed,2020-09-09 22:42:15 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.26,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun, Big Mac",,5.39,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,Medium French Fries,"Salt, Large French Fries",,2.75,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,Regular Oreo McFlurry,"Regular Oreo McFlurry, Oreo Topping",,3.35,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,Ketchup Packet,,,0,18.06,USD
+p,16733a07-5ec1-4f5c-8e10-bf8956ca1b5b,f014e001-4391-453a-ac2f-325ac8ac4369,2020-09-04 22:36:21 +0000 UTC,completed,6 Piece McNuggets,"Tangy BBQ Dipping Sauce, 6 Piece McNuggets",,2.4,18.06,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,48d365bb-805c-46b3-ab2d-330e22b2dbe1,2020-09-03 03:38:25 +0000 UTC,completed,White Sauce,,,0.95,27.39,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,48d365bb-805c-46b3-ab2d-330e22b2dbe1,2020-09-03 03:38:25 +0000 UTC,completed,White Sauce,,,0.95,27.39,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,48d365bb-805c-46b3-ab2d-330e22b2dbe1,2020-09-03 03:38:25 +0000 UTC,completed,Combo Platter,"Small (Default Small- if regular not selected), Gyro & Chicken, Gyro, Sliced Jalapenos, No Lettuce, No Tomatoes",,10.95,27.39,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,48d365bb-805c-46b3-ab2d-330e22b2dbe1,2020-09-03 03:38:25 +0000 UTC,completed,Hot Sauce,,,0.5,27.39,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,48d365bb-805c-46b3-ab2d-330e22b2dbe1,2020-09-03 03:38:25 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions",,10.95,27.39,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,76c0a6fc-1655-470f-a93a-7a15a4098b78,2020-08-28 22:12:25 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,16.22,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,aae8ac32-2615-4962-9c02-0fa1515c9430,2020-08-21 21:19:02 +0000 UTC,completed,Sesame Chicken,Steamed Rice,,11.95,18.21,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,aae8ac32-2615-4962-9c02-0fa1515c9430,2020-08-21 21:19:02 +0000 UTC,completed,Egg Drop Soup,Large,,2.49,18.21,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,69d37e7e-2c12-43e0-883b-9cf0dadf030b,2020-08-18 23:14:48 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions",,10.95,27.26,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,69d37e7e-2c12-43e0-883b-9cf0dadf030b,2020-08-18 23:14:48 +0000 UTC,completed,Combo Platter,"Regular, Chicken, Beef Gyro, Sliced Jalapenos, No Lettuce, No Tomatoes",,10.95,27.26,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,0ba34932-9ea7-455e-a389-85a73b2798a0,2020-08-14 21:08:45 +0000 UTC,completed,Egg Drop Soup,Large,,2.49,18.21,USD
+p,28d5a6a9-f753-4a66-9cf6-8f55d7c5a1f9,0ba34932-9ea7-455e-a389-85a73b2798a0,2020-08-14 21:08:45 +0000 UTC,completed,General Tso's Chicken,Steamed Rice,Spicy please ,11.95,18.21,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,cc1cc783-b2ee-48fd-985d-74c68be60e88,2020-08-12 20:46:31 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,16.72,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,f2f5c270-8acf-46a6-863e-d6b0d0e55598,2020-08-07 22:27:57 +0000 UTC,completed,Chicken Platter,Regular,"No pita bread, extra rice instead",10.95,16.72,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,058beb12-83a2-4043-8d5c-84a1d8641851,2020-07-31 20:31:47 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.72,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,7135bb04-0b73-419f-936c-6d41291f2048,2020-07-27 22:52:58 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions","No pita bread, extra rice instead",10.95,17.72,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c89b9ef4-d1ca-49d1-9f6f-9fbefd57ee68,2020-07-24 21:56:16 +0000 UTC,completed,Baklava (Full Square),,,3.75,18.57,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,c89b9ef4-d1ca-49d1-9f6f-9fbefd57ee68,2020-07-24 21:56:16 +0000 UTC,completed,Chicken Platter,"Regular, Chopped Onions",No pita bread. Extra rice instead. ,10.95,18.57,USD
+p,3913e38a-f21b-4625-a485-729dce5dfdd1,18c4c946-f2c9-41ea-8472-ffa1f9b9a1aa,2020-07-20 23:06:17 +0000 UTC,completed,Short Rib Radiatori,,,20,23.65,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,cdf4708c-da49-4e54-8e20-4dd41b0d934f,2020-03-05 02:34:58 +0000 UTC,canceled,Cheeseburger,"Mustard, Ketchup, Diced Onions, Pickle, American Cheese, Meat, Regular Bun, Salt, Cheeseburger",,1,0,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,cdf4708c-da49-4e54-8e20-4dd41b0d934f,2020-03-05 02:34:58 +0000 UTC,canceled,Medium French Fries,"Salt, Large French Fries",,2.29,0,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,cdf4708c-da49-4e54-8e20-4dd41b0d934f,2020-03-05 02:34:58 +0000 UTC,canceled,Medium French Fries,"Salt, Large French Fries",,2.29,0,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,cdf4708c-da49-4e54-8e20-4dd41b0d934f,2020-03-05 02:34:58 +0000 UTC,canceled,6 Piece Buttermilk Crispy Chicken Tenders,"Tangy BBQ Dipping Sauce, Sweet N Sour Dipping Sauce, Creamy Ranch Sauce, 6 Piece Buttermilk Crispy Chicken Tenders",,5.89,0,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,cdf4708c-da49-4e54-8e20-4dd41b0d934f,2020-03-05 02:34:58 +0000 UTC,canceled,Regular Oreo McFlurry,"Oreo Topping, Regular Oreo McFlurry",,2.79,0,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,cdf4708c-da49-4e54-8e20-4dd41b0d934f,2020-03-05 02:34:58 +0000 UTC,canceled,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun, Big Mac",,4.49,0,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,cdf4708c-da49-4e54-8e20-4dd41b0d934f,2020-03-05 02:34:58 +0000 UTC,canceled,10 Piece McNuggets,"Hot Picante Salsa, Spicy Buffalo, 10 Piece McNuggets",,4.69,0,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,84fe4d40-2597-41bc-9027-2ac4296b08d8,2020-02-28 00:47:51 +0000 UTC,completed,10 Piece McNuggets,"Ketchup Packet, Tangy Honey Mustard, 10 Piece McNuggets",,4.69,19.95,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,84fe4d40-2597-41bc-9027-2ac4296b08d8,2020-02-28 00:47:51 +0000 UTC,completed,Regular M&M McFlurry,"M & M® Topping, Snack M&M McFlurry",,2.79,19.95,USD
+p,7355184c-49bb-46c7-b49d-8d79e35f270c,84fe4d40-2597-41bc-9027-2ac4296b08d8,2020-02-28 00:47:51 +0000 UTC,completed,Big Mac,"Mac Sauce, Diced Onions, Shredded Lettuce, Pickle, American Cheese, Meat, Salt, Big Mac Bun, Ice, Medium Dr Pepper®, Salt, Big Mac Meal",,4.49,19.95,USD
