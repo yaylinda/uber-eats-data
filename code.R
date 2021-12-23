@@ -104,7 +104,8 @@ ggplot(
     monthweek, 
     fill = restaurant_1_label_factor
   )
-) + 
+) +
+  scale_fill_discrete(na.translate = F) + 
   facet_grid(
     year ~ month,
     switch = "y", 
@@ -126,9 +127,21 @@ ggplot(
     axis.text.x = element_blank(), 
     axis.text.y = element_blank(), 
     axis.ticks = element_blank(),
-    legend.position='bottom'
+    legend.position='bottom',
+    plot.title = element_text(size = rel(2), face = "bold", margin = margin(b = 10)),
+    plot.margin = margin(r = 20)
   )
 
+
+ggsave(
+  paste("plot.png", sep = ""),
+  path = "~/Developer/uber-eats-data",
+  dpi = 320,
+  width = 10,
+  height = 10,
+  device = "png",
+  units = "in"
+)
 
 ############################################## 
 ############## HELPER FUNCTIONS ############## 
