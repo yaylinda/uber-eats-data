@@ -12,10 +12,13 @@ setwd("~/Developer/uber-eats-data")
 ########## READ DATA & ADD COLUMNS ########### 
 ##############################################
 
-data = read.csv("processed_data.csv")
+data = read.csv("processed_data_long.csv", na.strings = c("","NA"))
+
+# Convert date column to date object
 data$date = as.Date(data$date, "%Y-%m-%d")
 
-# Add custom date helper columns
+# Add date helper columns
+data$year = year(data$date)
 data$week = week(data$date)
 data$month = format(data$date,"%B")
 data$month = factor(data$month, list(
@@ -34,63 +37,44 @@ data$day_of_week = factor(weekdays(data$date), list(
   "Friday", 
   "Saturday"
 ))
+data$month_num = as.numeric(format(data$date,"%m"))
+data$month_row = ifelse(
+  data$month_num >= 1 & data$month_num <= 3, 1, 
+  ifelse(
+    data$month_num >= 4 & data$month_num <= 6, 2, 
+    ifelse(
+      data$month_num >= 7 & data$month_num <= 9, 3, 4)))
 
-
-############################################## 
-############ SUBSET DATA AND PLOT ############ 
-##############################################
-
-# Subset data by year
+# Subset data by year to calculate monthweek for each year
 data_2020 = subset(data, year(data$date) == 2020)
 data_2020 = calculate_month_week(data_2020)
 
 data_2021 = subset(data, year(data$date) == 2021)
 data_2021 = calculate_month_week(data_2021)
 
-# Collect the dataset for 2020 to plot
-data_2020_main = data.frame(
-  "date" = data_2020$date, 
-  "month" = data_2020$month, 
-  "day_of_week" = data_2020$day_of_week, 
-  "monthweek" = data_2020$monthweek,
+# Then recombine the data
+data_combined = rbind(data_2020, data_2021)
+
+############################################## 
+################# PLOT DATA ################## 
+##############################################
+
+ggplot(
+  data_combined, 
+  aes(
+    day_of_week, 
+    monthweek, 
+    fill = as.factor(restaurant_1)
+  )
+) + 
+facet_grid(
+  year ~ month,
+  switch = "y", 
+  space = "free"
+) +
+coord_equal(ratio = 1) + 
+geom_tile(color = "white")
   
-  "The.Halal.Guys" = data_2020$The.Halal.Guys,
-  "McDonald.s" = data_2020$McDonald.s,
-  "Goldenpot" = data_2020$Goldenpot,
-  "Firehouse.Subs" = data_2020$Firehouse.Subs,
-  "Taco.Bell" = data_2020$Taco.Bell,
-  "North.Italia" = data_2020$North.Italia,
-  "Chick.fil.A" = data_2020$Chick.fil.A,
-  "Panera" = data_2020$Panera,
-  "Jack.in.the.Box" = data_2020$Jack.in.the.Box,
-  "KFC" = data_2020$KFC
-)
-melt_and_plot(data_2020_main, "2020")
-
-
-# Collect the dataset for 2021 to plot
-data_2021_main = data.frame(
-  "date" = data_2021$date, 
-  "month" = data_2021$month, 
-  "day_of_week" = data_2021$day_of_week, 
-  "monthweek" = data_2021$monthweek,
-  
-  "The.Halal.Guys" = data_2021$The.Halal.Guys,
-  "McDonald.s" = data_2021$McDonald.s,
-  "Goldenpot" = data_2021$Goldenpot,
-  "Firehouse.Subs" = data_2021$Firehouse.Subs,
-  "Taco.Bell" = data_2021$Taco.Bell,
-  "North.Italia" = data_2021$North.Italia,
-  "Chick.fil.A" = data_2021$Chick.fil.A,
-  "Panera" = data_2021$Panera,
-  "Jack.in.the.Box" = data_2021$Jack.in.the.Box,
-  "KFC" = data_2021$KFC
-)
-melt_and_plot(data_2021_main, "2021")
-
-
-
-
 
 
 
@@ -146,49 +130,6 @@ variable_labels = c(
   `November` = "Nov", 
   `December` = "Dec"
 )
-
-
-# Helper function to melt and plot the data
-# Assumes that the first four columns of the data are date/month/related
-melt_and_plot = function(data, subtitle) {
-  melt = melt(
-    data = data, 
-    id = names(data)[1:4])
-  
-  ggplot(
-    melt, 
-    aes(
-      day_of_week, 
-      monthweek, 
-      fill = as.factor(value)
-    )
-  ) + 
-    coord_equal(ratio = 1) + 
-    geom_tile(color = "white") + 
-    facet_grid(
-      variable ~ month, 
-      switch = "y", 
-      space = "free", 
-      labeller = as_labeller(variable_labels)
-    ) +
-    labs(
-      y = "",
-      x = "",
-      title = "2020 Uber Eats Deliveries",
-      subtitle = subtitle,
-      fill = "Legend",
-    ) + 
-    theme(
-      text = element_text(family = "mono", color = "white"),
-      panel.grid.major = element_blank(), 
-      panel.grid.minor = element_blank(), 
-      axis.text.x = element_blank(), 
-      axis.text.y = element_blank(), 
-      axis.ticks = element_blank(),
-      plot.subtitle = element_blank(),
-      plot.background = element_rect(fill = "black")
-    )
-}
 
 
 

@@ -61,7 +61,7 @@ def get_orders_by_date_by_restaurant(orders, restaurant_id_name_map, central_tz)
     return orders_by_date
 
 
-def format_data(orders_by_date_by_restaurant, start_year, end_year, unique_restaurant_names):
+def format_data_wide(orders_by_date_by_restaurant, start_year, end_year, unique_restaurant_names):
     """
     """
 
@@ -86,6 +86,36 @@ def format_data(orders_by_date_by_restaurant, start_year, end_year, unique_resta
                 # datum[restaurant] = restaurants_for_day[restaurant]
             else:
                 datum[restaurant] = 0
+
+        data.append(datum)
+
+        start_date = start_date + datetime.timedelta(days = 1)
+
+    return data
+
+
+def format_data_long(orders_by_date_by_restaurant, start_year, end_year):
+    """
+    """
+
+    data = []
+
+    start_date = datetime.date(start_year, 1, 1)
+
+    while start_date.year < end_year:
+        datum = {}
+        key = start_date.strftime('%Y-%m-%d')
+        datum['date'] = key
+
+        if key not in orders_by_date_by_restaurant:
+            restaurants_for_day = {}
+        else:
+            restaurants_for_day = orders_by_date_by_restaurant[key]
+
+        count = 1
+        for r_name in restaurants_for_day.keys():
+            datum['restaurant_%d' % count] = r_name
+            count = count + 1
 
         data.append(datum)
 
@@ -133,7 +163,7 @@ def main():
         pytz.timezone("US/Central")
     )
 
-    data = format_data(
+    data_wide = format_data_wide(
         orders_by_date_by_restaurant,
         2020,
         2022, 
@@ -141,11 +171,23 @@ def main():
     )
 
     write_csv(
-        data, 
-        'processed_data', 
+        data_wide, 
+        'processed_data_wide', 
         ['date'] + list(set(restaurant_id_name_map.values()))
     )
 
+    data_long = format_data_long(
+        orders_by_date_by_restaurant,
+        2020,
+        2022
+    )
 
+    write_csv(
+        data_long, 
+        'processed_data_long', 
+        ['date', 'restaurant_1', 'restaurant_2']
+    )
+
+    
 if __name__ == '__main__':
     main()
