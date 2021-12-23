@@ -1,4 +1,4 @@
-from datetime import datetime
+import datetime
 import pytz
 from csv_helper import read_csv
 from csv_helper import write_csv
@@ -44,7 +44,7 @@ def get_orders_by_date_by_restaurant(orders, restaurant_id_name_map, central_tz)
 
     for order in orders:
         order_time_str = order['Order Time']
-        order_datetime = datetime.strptime(order_time_str, '%Y-%m-%d %H:%M:%S %z %Z')
+        order_datetime = datetime.datetime.strptime(order_time_str, '%Y-%m-%d %H:%M:%S %z %Z')
         order_datetime_central = order_datetime.astimezone(central_tz)
         order_date_str = order_datetime_central.strftime('%Y-%m-%d')
 
@@ -61,21 +61,34 @@ def get_orders_by_date_by_restaurant(orders, restaurant_id_name_map, central_tz)
     return orders_by_date
 
 
-def format_data(orders_by_date_by_restaurant, unique_restaurant_names):
+def format_data(orders_by_date_by_restaurant, start_year, end_year, unique_restaurant_names):
     """
     """
 
     data = []
 
-    for key in orders_by_date_by_restaurant:
+    start_date = datetime.date(start_year, 1, 1)
+
+    while start_date.year < end_year:
+
         datum = {}
+        key = start_date.strftime('%Y-%m-%d')
         datum['date'] = key
+        
+        if key not in orders_by_date_by_restaurant:
+            restaurants_for_day = {}
+        else:
+            restaurants_for_day = orders_by_date_by_restaurant[key]
+
         for restaurant in unique_restaurant_names:
-            if restaurant in orders_by_date_by_restaurant[key]:
-                datum[restaurant] = orders_by_date_by_restaurant[key][restaurant]
+            if restaurant in restaurants_for_day:
+                datum[restaurant] = restaurants_for_day[restaurant]
             else:
                 datum[restaurant] = 0
+
         data.append(datum)
+
+        start_date = start_date + datetime.timedelta(days = 1)
 
     return data
 
@@ -100,6 +113,7 @@ def main():
             'Currency'
         ]
     )
+
     restaurants = read_csv(
         'data/Eats/eats_restaurant_names.csv', 
         [
@@ -111,8 +125,19 @@ def main():
     )
 
     restaurant_id_name_map = get_restaurant_id_name_map(restaurants)
-    orders_by_date_by_restaurant = get_orders_by_date_by_restaurant(orders, restaurant_id_name_map, pytz.timezone("US/Central"))
-    data = format_data(orders_by_date_by_restaurant, set(restaurant_id_name_map.values()))
+
+    orders_by_date_by_restaurant = get_orders_by_date_by_restaurant(
+        orders, 
+        restaurant_id_name_map, 
+        pytz.timezone("US/Central")
+    )
+
+    data = format_data(
+        orders_by_date_by_restaurant,
+        2020,
+        2022, 
+        set(restaurant_id_name_map.values())
+    )
 
     write_csv(
         data, 
