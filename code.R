@@ -55,6 +55,44 @@ data_2021 = calculate_month_week(data_2021)
 # Then recombine the data
 data_combined = rbind(data_2020, data_2021)
 
+# Create a new data frame of restaurant counts (only restaurant_1)
+data_combined$count_1 = ifelse(is.na(data_combined$restaurant_1), 0, 1)
+restaurant_count = aggregate(
+  data_combined$count_1, 
+  by = list(
+    restaurant = data_combined$restaurant_1
+  ), 
+  sum
+)
+
+# Order restaurant_count by number of times ordered
+restaurant_count = restaurant_count[order(-restaurant_count$x), ]
+
+# Restaurants with only 1 order will be labelled as "other"
+other_restaurants = restaurant_count[which(restaurant_count$x == 1), 1]
+labelled_restaurants = restaurant_count[which(restaurant_count$x > 1), 1]
+
+# Add column for restaurant label on data_combined
+data_combined$restaurant_1_label = ifelse(
+  data_combined$restaurant_1 %in% other_restaurants, 
+  "Other", 
+  data_combined$restaurant_1
+)
+
+# Make the restaurant_1_label column a factor. 
+# Restaurants in order of most ordered to least ordered
+# "Other" is last
+data_combined$restaurant_1_label_factor = factor(
+  data_combined$restaurant_1_label, 
+  c(labelled_restaurants, c("Other")))
+
+# Create list of colors for each restaurant factor (in order)
+restaurant_colors = c(
+  '#ffd400', # halal guys
+  '#c42925', # mcdonalds
+  ''
+)
+
 ############################################## 
 ################# PLOT DATA ################## 
 ##############################################
@@ -64,20 +102,32 @@ ggplot(
   aes(
     day_of_week, 
     monthweek, 
-    fill = as.factor(restaurant_1)
+    fill = restaurant_1_label_factor
   )
 ) + 
-facet_grid(
-  year ~ month,
-  switch = "y", 
-  space = "free"
-) +
-coord_equal(ratio = 1) + 
-geom_tile(color = "white")
-  
-
-
-
+  facet_grid(
+    year ~ month,
+    switch = "y", 
+    space = "free"
+  ) +
+  coord_equal(ratio = 1) + 
+  geom_tile(color = "white") +
+  labs(
+    x = "",
+    y = "",
+    title = "Uber Eats Orders",
+    subtitle = "",
+    fill = ""
+  ) + 
+  theme(
+    text = element_text(family = "mono"),
+    panel.grid.major = element_blank(), 
+    panel.grid.minor = element_blank(), 
+    axis.text.x = element_blank(), 
+    axis.text.y = element_blank(), 
+    axis.ticks = element_blank(),
+    legend.position='bottom'
+  )
 
 
 ############################################## 
@@ -104,32 +154,3 @@ calculate_month_week = function(data) {
   data$monthweek = factor(data$monthweek, list(6, 5, 4, 3, 2, 1))
   data
 }
-
-variable_labels = c(
-  `Goldenpot` = 'Goldenpot',
-  `Firehouse.Subs` = 'Firehouse Subs',
-  `Taco.Bell` = 'Taco Bell',
-  `North.Italia` = 'North Italia',
-  `Chick.fil.A` = 'Chick-fil-a',
-  `The.Halal.Guys` = 'The Halal Guys',
-  `Panera` = 'Panera',
-  `Jack.in.the.Box` = 'Jack in the Box',
-  `KFC` = 'KFC',
-  `McDonald.s` = 'McDonald\'s',
-  
-  `January` = "Jan", 
-  `February` = "Feb", 
-  `March` = "Mar", 
-  `April` = "Apr", 
-  `May` = "May", 
-  `June` = "Jun", 
-  `July` = "Jul", 
-  `August` = "Aug", 
-  `September` = "Sep", 
-  `October` = "Oct", 
-  `November` = "Nov", 
-  `December` = "Dec"
-)
-
-
-
