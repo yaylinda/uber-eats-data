@@ -5,6 +5,7 @@ library(reshape2)
 library(scales)
 library(ggthemes)
 library(tidyr)
+library(ggpubr)
 
 setwd("~/Developer/uber-eats-data")
 
@@ -68,9 +69,10 @@ restaurant_count = aggregate(
 # Order restaurant_count by number of times ordered
 restaurant_count = restaurant_count[order(-restaurant_count$x), ]
 
-# Restaurants with only 1 order will be labelled as "other"
-other_restaurants = restaurant_count[which(restaurant_count$x == 1), 1]
-labelled_restaurants = restaurant_count[which(restaurant_count$x > 1), 1]
+# Restaurants with fewer than "cutoff_count" will be labelled as "other"
+cutoff_count = 10
+other_restaurants = restaurant_count[which(restaurant_count$x <= cutoff_count), 1]
+labelled_restaurants = restaurant_count[which(restaurant_count$x > cutoff_count), 1]
 
 # Add column for restaurant label on data_combined
 data_combined$restaurant_1_label = ifelse(
@@ -86,16 +88,23 @@ data_combined$restaurant_1_label_factor = factor(
   data_combined$restaurant_1_label, 
   c(labelled_restaurants, c("Other")))
 
-# Create list of colors for each restaurant factor (in order)
-restaurant_colors = c(
-  '#ffd400', # halal guys
-  '#c42925', # mcdonalds
-  ''
+# Create the data frame containing restaurant labels and counts, including "Others"
+rest_count_incl_others = aggregate(
+  data_combined$count_1, 
+  by = list(
+    restaurant = data_combined$restaurant_1_label
+  ), 
+  sum
 )
+rest_count_incl_others = rest_count_incl_others[order(-rest_count_incl_others$x), ]
 
 ############################################## 
 ################# PLOT DATA ################## 
 ##############################################
+
+#--------------------------------------------
+# MAIN PLOT
+#--------------------------------------------
 
 ggplot(
   data_combined, 
@@ -132,7 +141,6 @@ ggplot(
     plot.margin = margin(r = 20)
   )
 
-
 ggsave(
   paste("plot.png", sep = ""),
   path = "~/Developer/uber-eats-data",
@@ -143,11 +151,93 @@ ggsave(
   units = "in"
 )
 
+#--------------------------------------------
+# PLOT with 3x4 grid side by side
+#--------------------------------------------
+
+data_combined$restaurant_1_label
+
+data_2020_combined = data_combined[which(data_combined$year == 2020), ]
+data_2021_combined = data_combined[which(data_combined$year == 2021), ]
+
+plot_2020 = plot_year_3_by_4(data_2020_combined, 2020)
+plot_2021 = plot_year_3_by_4(data_2021_combined, 2021)
+
+combo_plot = ggarrange(
+  plot_2020, 
+  plot_2021,
+  common.legend = TRUE, 
+  legend = "bottom"
+)
+
+annotate_figure(
+  combo_plot, 
+  top = text_grob("\nUber Eats Delivery Orders\n",
+    face = "bold",
+    family = "mono",
+    size = 16
+  )
+)
+
 ############################################## 
 ############## HELPER FUNCTIONS ############## 
 ##############################################
 
+#---------------------------------------------
+# Plot a 3x4 plot
+#---------------------------------------------
+
+plot_year_3_by_4 = function(data, title) {
+  ggplot(
+    data, 
+    aes(
+      day_of_week, 
+      monthweek, 
+      fill = restaurant_1_label_factor
+    )
+  ) +
+    scale_fill_discrete(
+      na.translate = F,
+      labels = paste(
+        rest_count_incl_others$restaurant, 
+        " (", 
+        rest_count_incl_others$x, 
+        ")", 
+        sep=""
+      ), 
+    ) + 
+    facet_wrap(
+      ~month,
+      ncol = 3
+    ) +
+    coord_equal(ratio = 1) + 
+    geom_tile(
+      color = "white", 
+      lwd = 0.8
+    ) +
+    labs(
+      x = "",
+      y = "",
+      title = title,
+      subtitle = element_blank(),
+      fill = ""
+    ) + 
+    theme(
+      text = element_text(family = "mono"),
+      panel.grid.major = element_blank(), 
+      panel.grid.minor = element_blank(), 
+      axis.text.x = element_blank(), 
+      axis.text.y = element_blank(), 
+      axis.ticks = element_blank(),
+      legend.position='bottom',
+    )
+}
+
+
+#---------------------------------------------
 # Calculate week of month, where sunday is a new week
+#---------------------------------------------
+
 calculate_month_week = function(data) {
   weekofmonth = rep(0, length(data$date))
   weekNum = 1

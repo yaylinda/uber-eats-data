@@ -1,4 +1,6 @@
 Territory,Restaurant ID,Order ID,Order Time,Order Status,Item Name,Customizations,Special Instructions,Item Price,Order Price,Currency
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,4e64494b-df77-445f-a67f-3d7c3a401555,2021-12-30 19:41:51 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
+p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,4e64494b-df77-445f-a67f-3d7c3a401554,2021-12-26 19:41:51 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
 p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,4e64494b-df77-445f-a67f-3d7c3a401553,2021-12-11 19:41:51 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
 p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,4e64494b-df77-445f-a67f-3d7c3a401553,2021-12-11 19:41:51 +0000 UTC,completed,Chicken Platter,"Regular, No Pita, Chopped Onions",,11.95,29.33,USD
 p,2b6d087a-470a-4ec9-8329-b0cdffbc1b3a,edadeb2d-94ca-4895-8c30-920d41a4d2fb,2021-12-07 23:55:30 +0000 UTC,completed,Chicken & Beef Gyro Platter,"Regular, No Lettuce, No Tomatoes, Chopped Green Peppers, Add Jalapenos",,11.95,44.03,USD
